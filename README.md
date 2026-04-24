@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB code accompanying the research paper published in the *Journal of Neural Engineering*:
 
-> **[Decoding Epileptic Seizure Behavioral States from Hippocampal Calcium Imaging Data](https://iopscience.iop.org/article/10.1088/1741-2552/ad5c03)**  
+> **[Brain-implantable needle-type CMOS imaging device enables multi-layer dissection of seizure calcium dynamics in the hippocampus](https://iopscience.iop.org/article/10.1088/1741-2552/ad5c03)**  
 > *Journal of Neural Engineering*, 2024. DOI: 10.1088/1741-2552/ad5c03
 
 ---
