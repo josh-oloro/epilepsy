@@ -226,7 +226,7 @@ If you use this code or data in your research, please cite:
 
 ```bibtex
 @article{oloro2024epilepsy,
-  title   = {Decoding Epileptic Seizure Behavioral States from Hippocampal Calcium Imaging Data},
+  title   = {Brain-implantable needle-type CMOS imaging device enables multi-layer dissection of seizure calcium dynamics in the hippocampus},
   journal = {Journal of Neural Engineering},
   year    = {2024},
   doi     = {10.1088/1741-2552/ad5c03},
